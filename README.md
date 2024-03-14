@@ -30,7 +30,6 @@ Clean Code & Comments:
   demonstrate clearity for others
 ``` 
 ## SCREN SHOT:
-```
-![Screenshot 2024-03-14 at 2 15 10 PM](https://github.com/sego37/First-Profile/assets/63138641/f7ac2e4c-564e-4e52-a095-f7f7ff1c03af)
 
-```
+![Screenshot 2024-03-14 at 2 15 10 PM](https://github.com/sego37/First-Profile/assets/63138641/afbc2f50-ca66-49ee-9fdf-ba5b0aab5f30)
+
