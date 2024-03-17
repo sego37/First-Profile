@@ -29,7 +29,7 @@ Clean Code & Comments:
 - All areas of code contain comments to
   demonstrate clearity for others
 ```
-## URL LINK TO MY REPOSITORY  
+## URL LINK TO MY PAGE  
 
 https://sego37.github.io/First-Profile/
 
